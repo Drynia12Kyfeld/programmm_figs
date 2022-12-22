@@ -1,0 +1,10 @@
+man(grisha).
+man(stepa).
+man(petia).
+wooman(natasha).
+five(grisha).
+five(stepa).
+four(petia).
+three(natasha).
+molodec(Z):-five(Z).
+molodec(Z):-four(Z).
